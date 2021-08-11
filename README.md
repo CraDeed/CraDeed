@@ -1,5 +1,8 @@
 <div align="center">
   
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=F7E600&height=100&section=header&text=CraDeed&fontSize=60&animation=blink)
+
+  
 👋 안녕하세요! **프론트엔드 개발자 이은기** 입니다.<br><br>
 
   
